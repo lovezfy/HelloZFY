@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZFY</string>
+    <string name="default_message">Click button below!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_send">Say something</string>
+    <string name="interact_message">You just clicked on the Button! Do you know</string>
+</resources>
+
